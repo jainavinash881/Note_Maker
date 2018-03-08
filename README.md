@@ -3,8 +3,8 @@ _An Android App that acts as an memorandom or remainder which saves the date and
 which further can be edited or deleted 
 
 
-##how to Install
-Download the cloan unzip it  and install it on your android phone
+#how to Install
+_Download the cloan unzip it  and install it on your android phone_
 
 ![alt tag](https://user-images.githubusercontent.com/22345839/37164792-4ea66176-2321-11e8-835d-a6c8310a5f4f.jpg)
 
