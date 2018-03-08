@@ -3,3 +3,7 @@ _An Android App that acts as an memorandom or remainder which saves the date and
 which further can be edited or deleted 
 
 ![alt tag](https://user-images.githubusercontent.com/22345839/37164792-4ea66176-2321-11e8-835d-a6c8310a5f4f.jpg)
+
+![alt tag](https://user-images.githubusercontent.com/22345839/37165360-77149aaa-2322-11e8-9fb2-15d834087596.jpg)
+
+
